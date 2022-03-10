@@ -14,3 +14,6 @@
 
 # direnv cache
 .direnv
+.idea/modules.xml
+*.xml
+*.iml
